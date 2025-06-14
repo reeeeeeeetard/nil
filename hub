@@ -107,8 +107,6 @@ Main.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Main.BorderSizePixel = 0
 Main.Position = UDim2.new(-8.94943639e-08, 0, 0.985431671, 0)
 Main.Size = UDim2.new(0, 682, 0, 346)
-Main.Active = true
-Main.Draggable = true
 
 Frame.Parent = bar
 Frame.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
